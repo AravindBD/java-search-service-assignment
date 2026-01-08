@@ -1,3 +1,5 @@
+---> Assignment Title: Java Assignment – Search Service <---
+
 ---> Description
 This project demonstrates a microservices-based Search Service that consumes an Inventory Service and filters products priced under $50 using Java Streams.
 
